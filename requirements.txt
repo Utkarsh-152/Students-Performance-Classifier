@@ -3,3 +3,6 @@ numpy
 pymysql
 mysql-connector-python
 python-dotenv
+matplotlib
+seaborn
+warnings
