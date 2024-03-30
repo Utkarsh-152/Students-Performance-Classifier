@@ -6,3 +6,6 @@ python-dotenv
 matplotlib
 seaborn
 warnings
+mlflow
+catboost
+xgboost
